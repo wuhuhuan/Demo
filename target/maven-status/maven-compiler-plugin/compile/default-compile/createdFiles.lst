@@ -1,0 +1,14 @@
+utils\BrowsersType.class
+pages\HomePage.class
+utils\ParseProperties.class
+utils\Do.class
+utils\Browsers$1.class
+utils\Wait.class
+utils\Browsers.class
+utils\CustomException.class
+pages\RegPage.class
+utils\CsvDataProvider.class
+utils\regLoc.class
+utils\IData.class
+utils\DataProviderImpl.class
+utils\Wu.class
